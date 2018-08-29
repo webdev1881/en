@@ -1,0 +1,28 @@
+.btn{
+	float: right;
+	padding: 0px 3px;
+
+}
+ th{
+	text-align: center;
+	padding: 0px;	
+}
+.table>tbody>tr>td{
+	padding:2px;
+	border-bottom: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	padding-right: 7px;	
+}
+h3{
+	background-color: silver;
+	box-shadow: 5px 5px 5px #888888;
+	border-radius: 5px;
+	margin: 5px;
+	padding: 5px;
+}
+span{
+	float: right;
+	font-size: 15px;
+	margin: 5px;
+}
